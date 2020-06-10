@@ -3656,11 +3656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\jeffer\\source\\repos\\BackendApp\\BackendApp.csproj",
+      "projectUniqueName": "E:\\Users\\jeffer\\source\\repos\\partapp\\cpacodingpart2\\BackendApp\\BackendApp.csproj",
       "projectName": "BackendApp",
-      "projectPath": "E:\\Users\\jeffer\\source\\repos\\BackendApp\\BackendApp.csproj",
+      "projectPath": "E:\\Users\\jeffer\\source\\repos\\partapp\\cpacodingpart2\\BackendApp\\BackendApp.csproj",
       "packagesPath": "C:\\Users\\jeffer\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\jeffer\\source\\repos\\BackendApp\\obj\\",
+      "outputPath": "E:\\Users\\jeffer\\source\\repos\\partapp\\cpacodingpart2\\BackendApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeffer\\AppData\\Roaming\\NuGet\\NuGet.Config",

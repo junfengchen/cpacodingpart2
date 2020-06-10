@@ -7255,8 +7255,8 @@
     },
     "BackendApp/1.0.0": {
       "type": "project",
-      "path": "../CPDApp/BackendApp.csproj",
-      "msbuildProject": "../CPDApp/BackendApp.csproj"
+      "path": "../BackendApp/BackendApp.csproj",
+      "msbuildProject": "../BackendApp/BackendApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7274,11 +7274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\jeffer\\source\\repos\\BackendUnitTestProject\\BackendUnitTestProject.csproj",
+      "projectUniqueName": "E:\\Users\\jeffer\\source\\repos\\partapp\\cpacodingpart2\\BackendUnitTestProject\\BackendUnitTestProject.csproj",
       "projectName": "BackendUnitTestProject",
-      "projectPath": "E:\\Users\\jeffer\\source\\repos\\BackendUnitTestProject\\BackendUnitTestProject.csproj",
+      "projectPath": "E:\\Users\\jeffer\\source\\repos\\partapp\\cpacodingpart2\\BackendUnitTestProject\\BackendUnitTestProject.csproj",
       "packagesPath": "C:\\Users\\jeffer\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\jeffer\\source\\repos\\BackendUnitTestProject\\obj\\",
+      "outputPath": "E:\\Users\\jeffer\\source\\repos\\partapp\\cpacodingpart2\\BackendUnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeffer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7294,11 +7294,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Users\\jeffer\\source\\repos\\BackendApp\\BackendApp.csproj": {
-              "projectPath": "E:\\Users\\jeffer\\source\\repos\\BackendApp\\BackendApp.csproj"
-            },
-            "E:\\Users\\jeffer\\source\\repos\\CPDApp\\BackendApp.csproj": {
-              "projectPath": "E:\\Users\\jeffer\\source\\repos\\CPDApp\\BackendApp.csproj"
+            "E:\\Users\\jeffer\\source\\repos\\partapp\\cpacodingpart2\\BackendApp\\BackendApp.csproj": {
+              "projectPath": "E:\\Users\\jeffer\\source\\repos\\partapp\\cpacodingpart2\\BackendApp\\BackendApp.csproj"
             }
           }
         }
@@ -7340,9 +7337,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
