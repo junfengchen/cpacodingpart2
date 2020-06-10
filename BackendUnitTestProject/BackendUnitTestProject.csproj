@@ -15,7 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BackendApp\BackendApp.csproj" />
-    <ProjectReference Include="..\CPDApp\BackendApp.csproj" />
   </ItemGroup>
 
 </Project>
