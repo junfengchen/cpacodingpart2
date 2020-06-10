@@ -49,4 +49,4 @@ And access the service from:
 
 ## Thoughouts
 
-If more time is given, I can expand the code to cover features like database query, database persistence and state JWT token authentication.
+If more time is given, I can expand the code to cover features like access logs, database query, database persistence and state JWT token authentication.
